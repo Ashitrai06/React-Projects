@@ -1,1 +1,1 @@
-BMI Calculator created using react
+Created few miniProjects using React
